@@ -1,0 +1,49 @@
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe.config
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.pdb
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csprojResolveAssemblyReference.cache
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Properties.Resources.resources
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csproj.GenerateResource.Cache
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.exe
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.pdb
+c:\users\baraka kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Form1.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCAccueil.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCMembres.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Login.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.FrmMembres.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.FrmListe_Membres.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\RdlCompile.cache
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\RdlCompile.compiled
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCFiches.resources
+C:\Users\Baraka Kinywa\documents\visual studio 2012\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.FrmImprimerFiches.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe.config
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.exe
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.pdb
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csprojResolveAssemblyReference.cache
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Form1.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.FrmMembres.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Login.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Properties.Resources.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCAccueil.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCFiches.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCMembres.resources
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csproj.GenerateResource.Cache
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe
+D:\Monbureau\VisualStudio12\Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.pdb
+D:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe.config
+D:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.exe
+D:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.pdb
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe.config
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.exe
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.pdb
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.exe
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\bin\Debug\CaisseSocialeG2IG.pdb
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csprojResolveAssemblyReference.cache
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Form1.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.FrmMembres.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Login.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.Properties.Resources.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCAccueil.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCFiches.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.UCMembres.resources
+E:\C#Projects\CaisseSocialeG2IG\CaisseSocialeG2IG\obj\Debug\CaisseSocialeG2IG.csproj.GenerateResource.Cache
